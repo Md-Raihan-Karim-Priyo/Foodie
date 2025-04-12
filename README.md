@@ -7,7 +7,8 @@
 + Admins can easily add pr remove items from the well managed menu
 + Easy add or remove admin and order features
 + Also there is a freature for receiving complains or suggestion from customers
-<br/>
+
+
 **Frontend:** HTML, CSS, Bootstrap <br/>
 **Backend:** PHP, Javascript <br/>
 **Database:** MySQL
