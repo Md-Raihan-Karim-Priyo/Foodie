@@ -1,0 +1,30 @@
+.My-banner{
+    
+   
+    height: auto;
+    width: auto;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(36, 97, 189); 
+      
+}
+.pStyle{
+   
+    background-color: rgba(0,0,0,0.7);
+    color: rgb(6, 243, 45);
+    margin: 20px auto;
+    padding: 10px;
+    text-align: center;
+    width: 40%;
+    font-size: 25px;
+  
+    
+}
+.MyCardContainer{
+    background-color: #646659;
+    margin-left: auto;
+    padding-left: 60px;
+    padding-right: auto;
+    padding-top: 25px;
+  
+}
