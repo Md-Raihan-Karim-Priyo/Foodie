@@ -9,13 +9,13 @@
 + Also there is a freature for receiving complains or suggestion from customers
 <br/>
 **Frontend:** <br/>
-  +HTML
-  +CSS
-  +Bootstrap
++HTML
++CSS
++Bootstrap
 <br>
 **Backend:** <br/>
-  +PHP
-  +Javascript
++PHP
++Javascript
 <br/>
 **Database:** <br/>
-  +MySQL
++MySQL
