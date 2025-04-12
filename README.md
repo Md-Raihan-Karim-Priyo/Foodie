@@ -8,12 +8,12 @@
 + Easy add or remove admin and order features
 + Also there is a freature for receiving complains or suggestion from customers
 <br>
-**Frontend:**<br>
+**Frontend:** <br>
   +HTML
   +CSS
   +Bootstrap
-**Backend:**<br>
+**Backend:** <br>
   +PHP
   +Javascript
-**Database:**<br>
+**Database:** <br>
   +MySQL
